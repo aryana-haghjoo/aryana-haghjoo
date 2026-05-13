@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**aryana-haghjoo/aryana-haghjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aryana, an astronomer and data scientist interested in applications of AI in astronomy.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on super-resolution of spectral data from space missions
+- 🌱 I’m currently exploring deep learning methods for astronomical spectroscopy
+- 👯 I’m interested in collaborating on AI/ML applications in astronomy and astrophysics
+- 💬 Ask me about astronomy, data science, machine learning, and spectral super-resolution
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryana-haghjoo/)
+- 😄 Pronouns: she/her
+- 🎓 Ph.D. in Astronomy, UC Riverside
+- 🎓 M.Sc. in Physics, McGill University
+- 🎓 B.Sc. in Physics, Sharif University of Technology
+- ⚡ Fun fact: I love good science jokes and memes — send me your best ones!
