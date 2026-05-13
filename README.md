@@ -10,7 +10,7 @@ I'm Aryana, an astronomer and data scientist interested in applications of AI in
 - 📡 During my M.Sc., I worked on **parameter estimation of the global 21-cm signal**, studying how non-standard physics can leave signatures on the shape and amplitude of the signal.
 - 👯 I’m interested in collaborating on AI/ML applications in astronomy, astrophysics, and scientific data analysis.
 - 💬 Ask me about astronomy, data science, machine learning, spectral super-resolution, and 21-cm cosmology.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryana-haghjoo/)
+- 📫 How to reach me: [email](aryana.haghjoo@email.ucr.edu)
 - 😄 Pronouns: she/her
 - 🎓 Ph.D. in Astronomy, UC Riverside
 - 🎓 M.Sc. in Physics, McGill University
