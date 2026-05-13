@@ -12,7 +12,7 @@ I'm Aryana, an astronomer and data scientist interested in applications of AI in
 - 💬 Ask me about astronomy, data science, machine learning, spectral super-resolution, and 21-cm cosmology.
 - 📫 How to reach me: aryana.haghjoo@email.ucr.edu
 - 😄 Pronouns: she/her
-- 🎓 Ph.D. in Astronomy, UC Riverside
+- 🎓 Ph.D. Student in Astronomy, UC Riverside 
 - 🎓 M.Sc. in Physics, McGill University
 - 🎓 B.Sc. in Physics, Sharif University of Technology
 - ⚡ Fun fact: I love good science jokes and memes. Send me your best ones!
