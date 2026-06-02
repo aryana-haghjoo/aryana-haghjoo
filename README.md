@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Aryana, an astronomer and data scientist interested in applications of AI in astronomy.
+I'm Aryana, an astronomer and data scientist interested in **applications of AI in astronomy**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/aryana-haghjoo/)
 
