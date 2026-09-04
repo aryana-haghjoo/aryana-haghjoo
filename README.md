@@ -3,6 +3,7 @@
 I'm Aryana, an astronomer and data scientist interested in **applications of AI in astronomy**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/aryana-haghjoo/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3071--7143-green?logo=orcid)](https://orcid.org/0009-0006-3071-7143)
 
 - 🔭 I’m currently working on **spectral super-resolution for JWST data**, using deep learning (transformer architecture) to recover higher-resolution spectral information from low-resolution data.
 - 🌌 My research has broader applications to future large surveys including those from **Euclid** and **Roman**.
